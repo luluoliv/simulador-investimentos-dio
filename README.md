@@ -76,4 +76,5 @@ Este projeto é de uso livre para fins educacionais e pessoais. Não constitui r
 
 ## 🙋‍♀️ Sobre
 
-Desenvolvido com foco em clareza, acessibilidade e educação financeira.
+Este projeto foi desenvolvido com foco em clareza, acessibilidade e educação financeira, proporcionando uma ferramenta simples para simulação de investimentos em fundos imobiliários.
+Projeto educacional desenvolvido como parte de um desafio da DIO - Digital Innovation One, com o objetivo de aplicar conhecimentos práticos em Excel e finanças pessoais.
